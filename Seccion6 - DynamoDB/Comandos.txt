@@ -1,0 +1,18 @@
+Comandos para insertar al momento de crear la instacia de linux en AWS EC2
+-------------------------------------------------------------
+
+#!/bin/bash
+yum update -y
+yum install httpd24 php56 git -y
+service httpd start
+chkconfig httpd on
+cd /var/www/html
+echo "<?php phpinfo();?>" > test.php
+git clone https://github.com/acloudguru/dynamodb
+
+
+Comando para estabecer conexion a la instancia de amazon via SSH.
+Recordar que la llave va en la carpeta C:\Users\Chehin\.ssh (Windows)
+------------------------------------------------------------------
+
+ssh -i Llave_AWS_Linux_DynamoDB.pem ec2-user@18.231.4.45

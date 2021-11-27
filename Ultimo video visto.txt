@@ -1,0 +1,55 @@
+31/10/2020
+---------------
+
+2 de la seccion 2
+
+31/10/2020
+---------------
+
+4 de la seccion 3
+
+
+02/11/2020
+---------------
+
+5 de la seccion 3
+
+
+09/11/2020
+---------------
+
+8 de la seccion 3
+
+
+10/11/2020
+---------------
+
+Fin seccion 3
+
+
+
+
+10/12/2020
+---------------
+
+- 3 , seccion 4
+
+
+11/12/2020
+---------------
+
+- 7 , seccion 4
+
+- 3 , seccion 5
+
+
+12/12/2020
+---------------
+
+- Termine seccion 5, empezar con dinamoBD
+
+
+12/12/2020
+---------------
+
+- 2 seccion 6 (min 10:30), ver como continuar, problema al ejecutar script php
